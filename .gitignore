@@ -33,3 +33,10 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+.idea/aws.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Terraform-Umbrella-VA-GCP.iml
+.idea/vcs.xml
